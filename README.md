@@ -15,7 +15,8 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-|            |             |
+| Jonathan Granados | www.github.com/joagranadosme |
+| Jairo Suárez  |  www.github.com/JairoASuarez  |
 
 ## Discusión
 
