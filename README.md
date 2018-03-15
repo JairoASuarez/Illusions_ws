@@ -24,7 +24,7 @@ Complete la tabla:
 
 | Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
-| Breathing Square |  Otros         | www.michaelbach.de/ot/mot-breathingSquare/index.html | Cursor del mouse mueve los cuadros rosa | github.com/joagranadosme/Illusions_ws/tree/master/BreathingSquare |
+| Breathing Square |  Otros         | www.michaelbach.de/ot/mot-breathingSquare/index.html | Cursor del mouse mueve los cuadros rosa | www.github.com/joagranadosme/Illusions_ws/tree/master/BreathingSquare |
 | Ebbinghaus illusion | Otros |  | No aplica | www.github.com |
 |         |           |            |                                    | www.github.com |
 |         |           |            |                                    | www.github.com |
