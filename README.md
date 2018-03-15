@@ -25,8 +25,8 @@ Complete la tabla:
 | Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
 | Breathing Square |  Otros         | www.michaelbach.de/ot/mot-breathingSquare/index.html | Cursor del mouse mueve los cuadros rosa | www.github.com/joagranadosme/Illusions_ws/tree/master/BreathingSquare |
-| Ebbinghaus illusion | Otros |  | No aplica | www.github.com |
-|         |           |            |                                    | www.github.com |
+| Ebbinghaus Illusion | Otros | www.i.imgur.com/ZTaDoA7.gif | No aplica | www.github.com |
+| N/A | Fisiológica | www.doyletics.com/images/optic1.jpg | No aplica | www.github.com |
 |         |           |            |                                    | www.github.com |
 |         |           |            |                                    | www.github.com |
 |         |           |            |                                    | www.github.com |
