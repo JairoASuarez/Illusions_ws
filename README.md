@@ -24,12 +24,12 @@ Complete la tabla:
 
 | Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
+| Breathing Square |  Otros         | http://www.michaelbach.de/ot/mot-breathingSquare/index.html | Cursor del mouse mueve los cuadros rosa | www.github.com |
+| Ebbinghaus illusion | Otros |  | No aplica | www.github.com |
+|         |           |            |                                    | www.github.com |
+|         |           |            |                                    | www.github.com |
+|         |           |            |                                    | www.github.com |
+|         |           |            |                                    | www.github.com |
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
